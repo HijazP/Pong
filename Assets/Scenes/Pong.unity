@@ -237,11 +237,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 3420702731504147429, guid: e91ec3e0bca8e004184684c122a16b8a, type: 3}
       propertyPath: upButton
-      value: 112
+      value: 273
       objectReference: {fileID: 0}
     - target: {fileID: 3420702731504147429, guid: e91ec3e0bca8e004184684c122a16b8a, type: 3}
       propertyPath: downButton
-      value: 108
+      value: 274
       objectReference: {fileID: 0}
     - target: {fileID: 6521908750526050179, guid: e91ec3e0bca8e004184684c122a16b8a, type: 3}
       propertyPath: m_Name
